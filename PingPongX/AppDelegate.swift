@@ -15,7 +15,9 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
-        // Override point for customization after application launch.
+
+        //window?.backgroundColor = #colorLiteral(red: 0.7807157509, green: 0.333337003, blue: 0.9960784314, alpha: 1)
+        
         return true
     }
 
